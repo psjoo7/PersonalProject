@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PersonalProject</string>
+    <string name="app_top">SW_MP</string>
+    <string name="my_name">20160665 | 박성준</string>
+    <string name="member_ID">회원ID</string>
+    <string name="validateID">확인</string>
+    <string name="member_password">비밀번호</string>
+    <string name="confirm_password">비밀번호 확인</string>
+    <string name="quit">취소</string>
+    <string name="login">로그인</string>
+    <string name="signIn">회원가입</string>
+    <string name="direct">상품 바로보기</string>
+    <string name="back">돌아가기</string>
+    <string name="name">이름</string>
+    <string name="phonenumber">전화번호</string>
+    <string name="address">주소</string>
+    <string name="accept">이용약관\n1. 개인정보의 수집항목\n예술경영지원센터는 홈페이지 회원 가입 시 회원 서비스 제공에 필요한 최소한의 정보를 수집하고 있으며 개인정보파일에 수집되는 항목은 다음과 같습니다.\n&lt;회원가입&gt;\n- 이름, 아이디, 연락처, 주소</string>
+    <string name="book1">링링 형제 떡집</string>
+    <string name="book1Price">9,900</string>
+    <string name="book2">불편한 편의점 2</string>
+    <string name="book2Price">12,600</string>
+    <string name="book3">심리학이 조조에게 말하다</string>
+    <string name="book3Price">16,000</string>
+    <string name="book4">아버지의 해방일지</string>
+    <string name="book4Price">13,500</string>
+    <string name="book5">엉뚱소심 유령 탐정단</string>
+    <string name="book5Price">11,700</string>
+
+
+
+</resources>
